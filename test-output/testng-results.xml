@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Flipcart Suite" duration-ms="79678" started-at="2022-02-28T21:37:13Z" finished-at="2022-02-28T21:38:33Z">
+    <groups>
+    </groups>
+    <test name="Flipcart Test" duration-ms="79678" started-at="2022-02-28T21:37:13Z" finished-at="2022-02-28T21:38:33Z">
+      <class name="com.tests.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="setup" is-config="true" duration-ms="9238" started-at="2022-02-28T21:37:13Z" finished-at="2022-02-28T21:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginPageTitle()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="verifyLoginPageTitle" duration-ms="11" started-at="2022-02-28T21:37:22Z" finished-at="2022-02-28T21:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="tearDown" is-config="true" duration-ms="669" started-at="2022-02-28T21:37:22Z" finished-at="2022-02-28T21:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="setup" is-config="true" duration-ms="8402" started-at="2022-02-28T21:37:34Z" finished-at="2022-02-28T21:37:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyReturnLinkTest()[pri:1, instance:com.tests.LoginPageTest@7085bdee]" name="VerifyReturnLinkTest" duration-ms="3157" started-at="2022-02-28T21:37:43Z" finished-at="2022-02-28T21:37:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyReturnLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="tearDown" is-config="true" duration-ms="689" started-at="2022-02-28T21:37:46Z" finished-at="2022-02-28T21:37:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="setup" is-config="true" duration-ms="8321" started-at="2022-02-28T21:37:58Z" finished-at="2022-02-28T21:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyHomeDropdownListTest()[pri:2, instance:com.tests.LoginPageTest@7085bdee]" name="VerifyHomeDropdownListTest" duration-ms="2362" started-at="2022-02-28T21:38:07Z" finished-at="2022-02-28T21:38:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomeDropdownListTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="tearDown" is-config="true" duration-ms="713" started-at="2022-02-28T21:38:09Z" finished-at="2022-02-28T21:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="setup" is-config="true" duration-ms="8539" started-at="2022-02-28T21:38:10Z" finished-at="2022-02-28T21:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchBoxItemTest()[pri:3, instance:com.tests.LoginPageTest@7085bdee]" name="searchBoxItemTest" duration-ms="2199" started-at="2022-02-28T21:38:18Z" finished-at="2022-02-28T21:38:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBoxItemTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="tearDown" is-config="true" duration-ms="675" started-at="2022-02-28T21:38:20Z" finished-at="2022-02-28T21:38:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="setup" is-config="true" duration-ms="8582" started-at="2022-02-28T21:38:21Z" finished-at="2022-02-28T21:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="doLoginTest()[pri:4, instance:com.tests.LoginPageTest@7085bdee]" name="doLoginTest" duration-ms="2420" started-at="2022-02-28T21:38:30Z" finished-at="2022-02-28T21:38:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginPageTest@7085bdee]" name="tearDown" is-config="true" duration-ms="705" started-at="2022-02-28T21:38:32Z" finished-at="2022-02-28T21:38:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.LoginPageTest -->
+      <class name="com.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tests.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="10703" started-at="2022-02-28T21:37:23Z" finished-at="2022-02-28T21:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.tests.HomePageTest@73ad2d6]" name="verifyHomePageTitleTest" duration-ms="6" started-at="2022-02-28T21:37:34Z" finished-at="2022-02-28T21:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="673" started-at="2022-02-28T21:37:34Z" finished-at="2022-02-28T21:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tests.HomePageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="10812" started-at="2022-02-28T21:37:47Z" finished-at="2022-02-28T21:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyaccountLinkTest()[pri:2, instance:com.tests.HomePageTest@73ad2d6]" name="verifyMyaccountLinkTest" duration-ms="72" started-at="2022-02-28T21:37:57Z" finished-at="2022-02-28T21:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyaccountLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.HomePageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="697" started-at="2022-02-28T21:37:58Z" finished-at="2022-02-28T21:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.HomePageTest -->
+    </test> <!-- Flipcart Test -->
+  </suite> <!-- Flipcart Suite -->
+</testng-results>
